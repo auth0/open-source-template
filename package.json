@@ -1,0 +1,16 @@
+{
+  "name": "auth0-open-source-template",
+  "version": "0.0.1",
+  "description": "A template for open source projects at Auth0",
+  "author": "Auth0 <support@auth0.com> (https://auth0.com)",
+  "license": "MIT",
+  "keywords": ["auth0"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/auth0/open-source-template"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}

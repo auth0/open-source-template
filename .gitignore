@@ -1,0 +1,22 @@
+# .gitignore docs - https://git-scm.com/docs/gitignore
+# Useful .gitignore templates - https://github.com/github/gitignore
+# Other common .gitignore directives - https://gist.github.com/octocat/9257657
+# Consider adding software-specific ignores to ~/.gitignore_global
+#
+# Commonly-used directives:
+#
+# .DS_Store
+# .DS_Store?
+# ._*
+# .Spotlight-V100
+# .Trashes
+# ehthumbs.db
+# Thumbs.db
+# npm-debug.log
+# .env
+#
+# .idea/
+# node_modules/
+# vendor/
+# build/
+# dist/
