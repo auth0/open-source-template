@@ -65,8 +65,8 @@ Search-replace the org/repo in the badge images and links below.
 
 ## Table of Contents
 
-- [Badges](#badges)
-	- [General](#all-badges)
+- [Badges](#general-badges)
+	- [General](#general-badges)
 	- [JavaScript](#javascript-badges)
 	- [Ruby/Rails](#ruby-rails-badges)
  	- [PHP](#php-badges)
@@ -76,6 +76,7 @@ Search-replace the org/repo in the badge images and links below.
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Contribution](#contribution)
+- [Support + Feedback](#support--feedback)
 - [Vulnerability Reporting](#vulnerability-reporting)
 - [Thank You](#thank-you)
 - [What is Auth0](#what-is-auth0)
