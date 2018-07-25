@@ -16,47 +16,34 @@ Search-replace the org/repo in the badge images and links below.
 ### General Badges
 
 [![CircleCI](https://img.shields.io/circleci/project/github/auth0/open-source-template.svg?style=flat-square)](https://circleci.com/gh/auth0/open-source-template/tree/master)
-
 [![TravisCI](https://travis-ci.org/auth0/open-source-template.png)](https://travis-ci.org/auth0/open-source-template)
-
 [![CodeCov](https://img.shields.io/codecov/c/github/auth0/open-source-template/v3.svg?style=flat-square)](https://codecov.io/github/auth0/open-source-template)
-
 [![Coveralls](https://coveralls.io/repos/auth0/open-source-template/badge.svg?branch=master)](https://coveralls.io/r/auth0/open-source-template?branch=master)
-
 [![Code Climate](https://codeclimate.com/github/auth0/open-source-template/badges/gpa.svg)](https://codeclimate.com/github/auth0/open-source-template)
-
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://doge.mit-license.org)
 
 ### JavaScript Badges
 
 [![NPM version](https://img.shields.io/npm/v/open-source-template.svg?style=flat-square)](https://npmjs.org/package/open-source-template)
-
 [![Dependency Status](https://david-dm.org/auth0/open-source-template/status.svg?style=flat-square)](https://david-dm.org/auth0/open-source-template)
-
 [![Downloads](https://img.shields.io/npm/dm/auth0-open-source-template.svg?style=flat-square)](https://npmjs.org/package/auth0-open-source-template)
 
 ### Ruby/Rails Badges
 
 [![Gem Version](https://badge.fury.io/rb/auth0-open-source-template.svg)](http://badge.fury.io/rb/auth0-open-source-template)
-
 [![Yard Docs](http://img.shields.io/badge/yard-docs-blue.svg)](http://www.rubydoc.info/github/auth0/open-source-template/master/frames)
 
 ### PHP Badges
 
 [![License](https://poser.pugx.org/auth0/open-source-template/license)](https://packagist.org/packages/auth0/open-source-template)
-
 [![Downloads](https://poser.pugx.org/auth0/open-source-template/downloads)](https://packagist.org/packages/auth0/open-source-template)
-
 [![Latest Stable Version](https://poser.pugx.org/auth0/open-source-template/v/stable)](https://packagist.org/packages/auth0/open-source-template)
 
 ### WordPress Badges
 
 [![WordPress plugin downloads](https://img.shields.io/wordpress/plugin/dt/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
-
 [![WordPress plugin rating](https://img.shields.io/wordpress/plugin/r/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
-
 [![WordPress plugin version](https://img.shields.io/wordpress/plugin/v/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
-
 [![WordPress version](https://img.shields.io/wordpress/v/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
 
 ### Python Badges
