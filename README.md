@@ -2,7 +2,14 @@
 
 The section after the title is where we say what this library, sample, or SDK does in a few sentences. Consider adding:
 
-- Short description of use case + problem(s) solved
+- Short description of use case + problem(s) solved. Consider the following ([from here](https://threadreaderapp.com/thread/921921604140937216.html )):
+	- Have you described what it is and what the benefits are in a way a non-developer can understand?
+	- If someone Googles to try to learn more about it, is this description easy to find?
+	- Is this description easily skimmable? If someone looks at it for 6 seconds can they be convinced?
+	- Do you compare your tool to other similar tools so people feel educated about pros/cons of yours?
+	- If performance matters, do you have easy-to-skim benchmarks that include comparing it to other tools?
+	- Do you have a demo? If it’s open source, are there well documented and easy to build samples/demos?
+Have you talked with developers who may be interested to learn about why they haven’t tried it or don’t use it?
 - Platform/language version supported
 - Links to the project in other repos (npm, packagist, etc)
 - Repo status linked to a main location for definition and expectations [TODO]
@@ -71,7 +78,9 @@ Search-replace the org/repo in the badge images and links below.
 
 ## Documentation
 
-This section should describe the documentation contained within this repo as well as links to other helpful pages. Consider adding:
+This section should describe the documentation contained within this repo as well as links to other helpful pages. Full documentation for the library should not, ideally, be located in the repo README and must not be duplicated from somewhere else. If the README is being updated to adhere to these guidelines and the documentation only exists in the readme, consider moving it to a docs page or a Quickstart.
+
+Consider adding:
 
 - How to generate documentation in the project (if applicable)
 - Links to Quickstarts and sample projects
@@ -100,7 +109,9 @@ composer install
 
 ## Getting Started
 
-This section should include basic usage instructions that can be successfully completed after [Installation](#installation) above. Consider adding:
+This section should include basic usage instructions that can be successfully completed after [Installation](#installation) above. This section should be a short introduction to how this library can be used, not a duplication of existing Quickstarts. 
+
+Consider adding:
 
 - Working with the Authentication API
 	- Basic login
