@@ -10,7 +10,7 @@ Information about compiling CSS, JS, SVG, etc
 
 Link to [README installation](README.md#installation) steps and include anything additional needed to contribute to the project.
 
-# How to run tests
+## How to run tests
 
 Any additional information needed to run the test suite. Include `bash`-formatted commands like:
 

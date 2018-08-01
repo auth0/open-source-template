@@ -31,6 +31,7 @@ Please describe how this can be tested by reviewers. Be specific about anything 
 
 ### Checklist
 
+* [ ] I have read the CoC [TODO: add link]
 * [ ] All existing and new tests complete without errors
 * [ ] All code quality tools/guidelines in the [CONTRIBUTING documentation](CONTRIBUTING.md) have been run/followed
 * [ ] All relevant assets have been compiled as directed in the [CONTRIBUTING documentation](CONTRIBUTING.md), if applicable
