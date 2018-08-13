@@ -9,12 +9,11 @@ Description of the bug or feature request and why it's a problem. Consider inclu
 
 ### Prerequisites
 
-* [ ] Did you check the documentation? 
+* [ ] Did you check the documentation? [Add a link]
 * [ ] Did you check the [Auth0 Community](https://community.auth0.com/)?
-* [ ] Are you reporting to the correct repository?
-* [ ] Are there any related issues or PRs in this repo? 
-* [ ] Does this relate to a support ticket? Please include a link if so. 
-* [ ] Does this issue have a clear and concise title?
+* [ ] Are you reporting this to the correct repository?
+* [ ] Are there any related or duplicate issues or PRs for this issue?
+* [ ] Does this issue have a clear and concise description?
 
 ### Environment
 
@@ -26,7 +25,7 @@ Description of the bug or feature request and why it's a problem. Consider inclu
 
 ### Reproduction
 
-Please note if this issue can be reproduced consistenly or if it is intermittant. 
+Please note if this issue can be reproduced consistenly or if it is intermittant. If your testing configuration differs from the related README or Quickstart [add link], please test against the default setup or indicate the differences here. 
 
 1. [first step]
 2. [second step]
@@ -45,3 +44,7 @@ Consider including:
 **Actual behavior:** 
 
 [What actually happened]
+
+### Response SLA 
+
+[Add a response SLA based on repo ownership]
