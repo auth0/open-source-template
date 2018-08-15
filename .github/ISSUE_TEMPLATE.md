@@ -13,12 +13,11 @@ Description of the bug or feature request and why it's a problem. Consider inclu
 * [ ] Did you check the [Auth0 Community](https://community.auth0.com/)?
 * [ ] Are you reporting this to the correct repository?
 * [ ] Are there any related or duplicate issues or PRs for this issue?
-* [ ] Does this issue have a clear and concise description?
 
 ### Environment
 
 * Version of the library being used
-* Version of the platform used, if applicable
+* Version of the platform or framework used, if applicable
 * Relevant environmental versions (language version, server software, OS version)
 * Browser version, if applicable
 * Additional modules/plugins/add-ons that might be affecting your instance
@@ -45,6 +44,6 @@ Consider including:
 
 [What actually happened]
 
-### Response SLA 
+### Expectations
 
-[Add a response SLA based on repo ownership]
+[Add a response expectation based on repo ownership and support]

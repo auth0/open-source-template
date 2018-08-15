@@ -1,6 +1,6 @@
 ### Changes
 
-Please describe both what is changing and why this is important. Include whether this is a breaking change to a public API that will need to be released as a major version (major versions are released infrequently and usually worked on in a separate branch).
+Please describe both what is changing and why this is important. 
 
 Include:
 
@@ -27,7 +27,6 @@ Please describe how this can be tested by reviewers. Be specific about anything 
 
 * [ ] This change adds unit test coverage
 * [ ] This change adds integration test coverage
-* [ ] This change has been tested for performance
 * [ ] This change has been tested on the latest version of the platform/language or why not
 
 ### Checklist
@@ -39,6 +38,6 @@ Please describe how this can be tested by reviewers. Be specific about anything 
 * [ ] The correct base branch is being used, if not `master`
 * [ ] All active GitHub checks have passed
 
-### Response SLA 
+### Expectations
 
-[Add a response SLA based on repo ownership]
+[Add a response expectation based on repo ownership and support]
