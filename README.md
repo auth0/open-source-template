@@ -12,11 +12,6 @@ The section after the title is where we say what this library, sample, or SDK do
 Have you talked with developers who may be interested to learn about why they haven’t tried it or don’t use it?
 - Platform/language version supported
 - Links to the project in other repos (npm, packagist, etc)
-- Repo status linked to a main location for definition and expectations [TODO]
-	- supported: actively developed by Auth0
-	- community: developed by the community with Auth0 guidance
-	- deprecated: not supported or actively maintained
-	- archived: not supported, closed for new contributions
 
 Search-replace the org/repo in the badge images and links below.
 
@@ -131,9 +126,9 @@ Consider adding:
 
 Include a general blurb about contribution and our appreciation thereof!
 
-- Link to general contribution guidelines for all repos [TODO]
+- Link to general contribution guidelines for all repos
 - Link to [CONTRIBUTION.md](CONTRIBUTION.md) with specific instructions
-- Link to general code of conduct for all repos [TODO]
+- Link to general code of conduct for all repos
 
 ## Support + Feedback
 
@@ -142,17 +137,13 @@ Include information on how to get support. Consider adding:
 - Use [Issues](https://github.com/auth0/open-source-template/issues) for code-level support
 - Use [Community](https://community.auth0.com/) for usage, questions, specific cases
 - Link to other support forums and FAQs
-- Published response SLA (based on support level) [TODO]
+- Response expectations
 
 ## Vulnerability Reporting
 
-[TODO: check that this is up-to-date]
-
 Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
 
-## What is Auth0
-
-[Sent from @tony 7/24/2018]
+## What is Auth0?
 
 Auth0 helps you to easily:
 
@@ -163,7 +154,7 @@ Auth0 helps you to easily:
 - access demographics and analytics detailing how, when, and where users are logging in
 - enrich user profiles from other data sources using customizable JavaScript rules
 
-[More about Auth0 Open Source](https://auth0.com/opensource) [TODO: need a landing page for more information]
+[Why Auth0?](https://auth0.com/why-auth0)
 
 ## Thank You!
 
