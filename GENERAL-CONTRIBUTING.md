@@ -2,7 +2,7 @@
 
 A big welcome and thank you for considering contributing to the Auth0 open source projects. It’s people like you that make it a reality for users in our community. 
 
-By reading these guidelines and following them we can make the contribution process easy and effective for everyone involved. Thereby it helps to communicate that you agree to respect the time of the developers managing and developing these open source project. In return, we should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+Reading and following these guidelines will help us make the contribution process easy and effective for everyone involved. It also communicates that you agree to respect the time of the developers managing and developing these open source projects. In return, we will reciprocate that respect by addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 ### Quicklinks
 * [Code of Conduct](#code-of-conduct)
@@ -27,19 +27,20 @@ When contributing to a repository, the first step is to open an issue in that re
 
 Before you submit a new issue please make sure to search all open and closed issues. It is possible your feature request/issue has already answered. 
 
-The new issue template contains a number of prompts that you should fill out to faciliate the process of reviewing said issue. 
+This repo includes an issue template that will walk through all the places to check before submitting your issue here. Please follow the instructions there to make sure this is not a duplicate issue and we have everything we need to research and reproduce this problem.
 
 ### Submitting Pull Requests 
 
-Same goes for PRs, please search all open and clsoed PRs before submitting a new one. We do not want duplicate effort.
+Same goes for PRs, please search all open and closed PRs before submitting a new one. We do not want duplicate effort.
 
 In general, we follow the "fork-and-pull" Git workflow.
 
-* Fork the repository 
-* Clone the project 
-* Create a branch 
+* Fork the repository to your own Github account
+* Clone the project to your machine
+* Create a branch locally with a succinct but descriptive name
 * Commit changes to the branch
 * Push changes to your fork
+* Make sure to review the repository's CONTRIBUTING.md guide 
 * Open a Pull Request in the repository (not your own fork) and follow the PR template so that we can efficiently review the changes. 
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request.
@@ -48,7 +49,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request.
 
 ### Got a question or problem? 
 
-Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. Please join us over in the Auth0 community at [community.auth0.com](https://community.auth0.com). Therefore, we will close all issues that are requests for general support and redirect to this section. 
+Please do not open issues for general support or usage questions. Instead, join us over in the Auth0 community at [community.auth0.com](https://community.auth0.com) and create post your question there in the correct category with a descriptive tag.
 
 ### Vulnerability Reporting
 
