@@ -1,4 +1,6 @@
-In order to efficiently and accurately address your issue or feature request, please read through the template below and answer all relevant questions. Your additional work here is greatly appreciated and will help us repond as quickly as possible. Please delete any sections or questions below that do not pertain to this request. 
+In order to efficiently and accurately address your issue or feature request, please read through the template below and answer all relevant questions. Your additional work here is greatly appreciated and will help us respond as quickly as possible. Please delete any sections or questions below that do not pertain to this request.
+
+For general support or usage questions, please user the [Auth0 Community](https://community.auth0.com/).
 
 ### Description
 
@@ -12,9 +14,11 @@ Description of the bug or feature request and why it's a problem. Consider inclu
 * [ ] Did you check the documentation? [Add a link]
 * [ ] Did you check the [Auth0 Community](https://community.auth0.com/)?
 * [ ] Are you reporting this to the correct repository?
-* [ ] Are there any related or duplicate issues or PRs for this issue?
+* [ ] Are there any related or duplicate Issues or PRs for this issue?
 
 ### Environment
+
+Please provide the following:
 
 * Version of the library being used
 * Version of the platform or framework used, if applicable
@@ -24,26 +28,10 @@ Description of the bug or feature request and why it's a problem. Consider inclu
 
 ### Reproduction
 
-Please note if this issue can be reproduced consistenly or if it is intermittant. If your testing configuration differs from the related README or Quickstart [add link], please test against the default setup or indicate the differences here. 
+Detail the steps taken to reproduce this error and note if this issue can be reproduced consistently or if it is intermittent.
 
-1. [first step]
-2. [second step]
-3. [...]
+Please include:
 
-Consider including:
-
-- Screenshots
 - Log files (redact/remove sensitive information)
 - Application settings (redact/remove sensitive information)
-
-**Expected behavior:** 
-
-[What you expected to happen]
-
-**Actual behavior:** 
-
-[What actually happened]
-
-### Expectations
-
-[Add a response expectation based on repo ownership and support]
+- Screenshots, if helpful

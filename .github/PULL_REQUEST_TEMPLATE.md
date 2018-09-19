@@ -1,12 +1,9 @@
 ### Changes
 
-Please describe both what is changing and why this is important. 
+Please describe both what is changing and why this is important. Include:
 
-Include:
-
-- Endpoints added, deleted, deprecated, or changed
-- Methods added, deleted, deprecated, or changed
-- Classes added, deleted, deprecated, or changed
+ - Endpoints added, deleted, deprecated, or changed
+- Classes and methods added, deleted, deprecated, or changed
 - Screenshots of new or changed UI, if applicable
 - A summary of usage if this is a new feature or change to a public API (this should also be added to relevant documentation once released)
 
@@ -23,7 +20,7 @@ Please note any links that are not publicly accessible.
 
 ### Testing
 
-Please describe how this can be tested by reviewers. Be specific about anything not tested and reasons why. If this library has unit and/or integration testing, tests should be added for new functionality and existing tests should complete without errors. 
+Please describe how this can be tested by reviewers. Be specific about anything not tested and reasons why. If this library has unit and/or integration testing, tests should be added for new functionality and existing tests should complete without errors.
 
 * [ ] This change adds unit test coverage
 * [ ] This change adds integration test coverage
@@ -31,13 +28,10 @@ Please describe how this can be tested by reviewers. Be specific about anything 
 
 ### Checklist
 
-* [ ] I have read the CoC [TODO: add link]
+* [ ] I have read the [Auth0 general contribution guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md)
+* [ ] I have read the [Auth0 code of conduct](link-tbd)
 * [ ] All existing and new tests complete without errors
-* [ ] All code quality tools/guidelines in the [CONTRIBUTING documentation](CONTRIBUTING.md) have been run/followed
-* [ ] All relevant assets have been compiled as directed in the [CONTRIBUTING documentation](CONTRIBUTING.md), if applicable
+* [ ] All code quality tools/guidelines in the [CONTRIBUTION documentation](CONTRIBUTION.md) have been run/followed
+* [ ] All relevant assets have been compiled as directed in the [CONTRIBUTION documentation](CONTRIBUTION.md), if applicable
 * [ ] The correct base branch is being used, if not `master`
 * [ ] All active GitHub checks have passed
-
-### Expectations
-
-[Add a response expectation based on repo ownership and support]
