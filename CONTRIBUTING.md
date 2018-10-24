@@ -1,6 +1,6 @@
 # Contribution
 
-Link to general contribution guidelines for all repos [TODO]
+Link to [general contribution guidelines](GENERAL-CONTRIBUTING.md) for all repos
 
 ## Assets compilation
 
