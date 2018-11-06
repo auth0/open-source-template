@@ -12,57 +12,28 @@ The section after the title is where we say what this library, sample, or SDK do
 Have you talked with developers who may be interested to learn about why they haven’t tried it or don’t use it?
 - Platform/language version supported
 - Links to the project in other repos (npm, packagist, etc)
+- Information about maintained and deprecated branches
+- Repo status - maintained, deprecated, etc.
+- Other resources:
+	- https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md
+	- https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+	- https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46
 
 Search-replace the org/repo in the badge images and links below.
 
-### General Badges (optional)
+**Note:** See individual language directories in this repo for technology-specific badges. 
 
 [![CircleCI](https://img.shields.io/circleci/project/github/auth0/open-source-template.svg?style=flat-square)](https://circleci.com/gh/auth0/open-source-template/tree/master)
 [![TravisCI](https://travis-ci.org/auth0/open-source-template.png)](https://travis-ci.org/auth0/open-source-template)
 [![CodeCov](https://img.shields.io/codecov/c/github/auth0/open-source-template/v3.svg?style=flat-square)](https://codecov.io/github/auth0/open-source-template)
 [![Coveralls](https://coveralls.io/repos/auth0/open-source-template/badge.svg?branch=master)](https://coveralls.io/r/auth0/open-source-template?branch=master)
 [![Code Climate](https://codeclimate.com/github/auth0/open-source-template/badges/gpa.svg)](https://codeclimate.com/github/auth0/open-source-template)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://doge.mit-license.org)
-
-### JavaScript Badges
-
-[![NPM version](https://img.shields.io/npm/v/open-source-template.svg?style=flat-square)](https://npmjs.org/package/open-source-template)
-[![Dependency Status](https://david-dm.org/auth0/open-source-template/status.svg?style=flat-square)](https://david-dm.org/auth0/open-source-template)
-[![Downloads](https://img.shields.io/npm/dm/auth0-open-source-template.svg?style=flat-square)](https://npmjs.org/package/auth0-open-source-template)
-
-### Ruby/Rails Badges
-
-[![Gem Version](https://badge.fury.io/rb/auth0-open-source-template.svg)](http://badge.fury.io/rb/auth0-open-source-template)
-[![Yard Docs](http://img.shields.io/badge/yard-docs-blue.svg)](http://www.rubydoc.info/github/auth0/open-source-template/master/frames)
-
-### PHP Badges
-
-[![License](https://poser.pugx.org/auth0/open-source-template/license)](https://packagist.org/packages/auth0/open-source-template)
-[![Downloads](https://poser.pugx.org/auth0/open-source-template/downloads)](https://packagist.org/packages/auth0/open-source-template)
-[![Latest Stable Version](https://poser.pugx.org/auth0/open-source-template/v/stable)](https://packagist.org/packages/auth0/open-source-template)
-
-### WordPress Badges
-
-[![WordPress plugin downloads](https://img.shields.io/wordpress/plugin/dt/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
-[![WordPress plugin rating](https://img.shields.io/wordpress/plugin/r/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
-[![WordPress plugin version](https://img.shields.io/wordpress/plugin/v/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
-[![WordPress version](https://img.shields.io/wordpress/v/auth0-open-source-template.svg)](https://wordpress.org/plugins/auth0-open-source-template/)
-
-### Python Badges
-
-[![PyPI](https://img.shields.io/pypi/v/auth0-open-source-template.svg)](https://pypi.org/project/auth0-open-source-template/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
-Make sure this is updated based on the sections included
+Make sure this is updated based on the sections included:
 
-- [Badges](#general-badges)
-	- [General](#general-badges)
-	- [JavaScript](#javascript-badges)
-	- [Ruby/Rails](#ruby-rails-badges)
- 	- [PHP](#php-badges)
- 	- [WordPress](#wordpress-badges)
- 	- [Python](#python-badges)
 - [Documentation](#documentation)
 - [Installation](#installation)
 - [Getting Started](#getting-started)
@@ -116,15 +87,16 @@ Consider adding:
 	- Authorize redirect
 	- Logout
 - Working with the Management API
+	- Perform a Client Credentials grant
 	- Get Users by page
 	- Get Clients by page
 	- Get Connections by page
 - Other common tasks
 - Security recommendations
-	- state validation
+	- State validation
 	- ID token verification
 
-## Contribution
+## Contributing
 
 We appreciate feedback and contribution to this repo! Before you get started, please see the following:
 
@@ -139,7 +111,6 @@ Include information on how to get support. Consider adding:
 - Use [Issues](https://github.com/auth0/open-source-template/issues) for code-level support
 - Use [Community](https://community.auth0.com/) for usage, questions, specific cases
 - Link to other support forums and FAQs
-- Response expectations
 
 ## Vulnerability Reporting
 

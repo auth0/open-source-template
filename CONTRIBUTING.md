@@ -1,6 +1,13 @@
 # Contribution
 
-Link to [general contribution guidelines](GENERAL-CONTRIBUTING.md) for all repos
+Please read [Auth0's contribution guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md).
+
+## Documentation
+
+- PR for docs site update, if needed
+- Code-level documentation expectations
+	- 100% documentation coverage for PRs
+	- Include links to relevant Auth0 doc pages
 
 ## Assets compilation
 
@@ -10,7 +17,14 @@ Information about compiling CSS, JS, SVG, etc
 
 Link to [README installation](README.md#installation) steps and include anything additional needed to contribute to the project.
 
-## How to run tests
+## Testing
+
+
+### Adding tests
+
+General information about the test suite and how to format and structure tests. 
+
+### Running tests
 
 Any additional information needed to run the test suite. Include `bash`-formatted commands like:
 
@@ -18,6 +32,8 @@ Any additional information needed to run the test suite. Include `bash`-formatte
 composer test
 bundle exec rake test
 ```
+
+Also include any information about essential manual tests. 
 
 ## Code quality tools
 
