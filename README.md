@@ -17,7 +17,7 @@ This repo can be cloned, modified, then re-purposed for new open source projects
 
 The core of open source repo quality is the `README.md` file that's displayed on the repo's homepage in Github. The `README-sample.md` included here was collaboratively created by Auth0's SDK engineering team and community engineering team based on samples of high-quality README files around the web.
 
-Most sections within this file should be considered required, even is that section contains a link to a more relevant page. Certain sections will contain repo-specific information and should be modified as needed:
+Most sections within this file should be considered required, even if that section contains a link to a more relevant page. Certain sections will contain repo-specific information and should be modified as needed:
 
 - Description (below the title)
 - Badges
@@ -45,7 +45,7 @@ See `README-sample.md` for guidelines.
 
 ### Modify .gitignore
 
-This file contains file that will be excluded from git. Modify as needed based on the technology being used.
+This file contains files that will be excluded from git. Modify as needed based on the technology being used.
 
 ### Modify/remove platform-specific files
 
