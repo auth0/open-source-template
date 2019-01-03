@@ -27,7 +27,7 @@ Search-replace the org/repo in the badge images and links below.
 [![TravisCI](https://travis-ci.org/auth0/open-source-template.png)](https://travis-ci.org/auth0/open-source-template)
 [![CodeCov](https://img.shields.io/codecov/c/github/auth0/open-source-template/v3.svg?style=flat-square)](https://codecov.io/github/auth0/open-source-template)
 [![Coveralls](https://coveralls.io/repos/auth0/open-source-template/badge.svg?branch=master)](https://coveralls.io/r/auth0/open-source-template?branch=master)
-[![Code Climate](https://img.shields.io/codeclimate/coverage/auth0/open-source-template.svg)](https://codeclimate.com/github/auth0/open-source-template)
+[![Code Climate](https://img.shields.io/codeclimate/maintainability/auth0/open-source-template.svg)](https://codeclimate.com/github/auth0/open-source-template)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
