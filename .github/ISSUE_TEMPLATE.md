@@ -11,22 +11,22 @@ Description of the bug or feature request and why it's a problem. Consider inclu
 
 ### Prerequisites
 
-* [ ] I have read the [Auth0 general contribution guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md)
-* [ ] I have read the [Auth0 Code of Conduct](https://github.com/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md)
-* [ ] Did you check the documentation? [Add a link]
-* [ ] Did you check the [Auth0 Community](https://community.auth0.com/)?
-* [ ] Are you reporting this to the correct repository?
-* [ ] Are there any related or duplicate Issues or PRs for this issue?
+- [ ] I have checked the documentation for this library [Add a link].
+- [ ] I have checked the [Auth0 Community](https://community.auth0.com/) for related posts.
+- [ ] I have checked for related or duplicate [Issues](https://github.com/auth0/REPO-NAME/issues) and [PRs](https://github.com/auth0/REPO-NAME/pulls).
+- [ ] I have read the [Auth0 general contribution guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md).
+- [ ] I have read the [Auth0 Code of Conduct](https://github.com/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md).
+- [ ] I am reporting this to the correct repository [Add links to other related].
 
 ### Environment
 
 Please provide the following:
 
-* Version of the library being used
-* Version of the platform or framework used, if applicable
-* Relevant environmental versions (language version, server software, OS version)
-* Browser version, if applicable
-* Additional modules/plugins/add-ons that might be affecting your instance
+- Version of the library being used
+- Version of the platform or framework used, if applicable
+- Relevant environmental versions (language version, server software, OS version)
+- Browser version, if applicable
+- Additional modules/plugins/add-ons that might be affecting your instance
 
 ### Reproduction
 
@@ -34,6 +34,7 @@ Detail the steps taken to reproduce this error and note if this issue can be rep
 
 Please include:
 
+- Code sample to reproduce the issue
 - Log files (redact/remove sensitive information)
 - Application settings (redact/remove sensitive information)
 - Screenshots, if helpful
