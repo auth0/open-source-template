@@ -3,8 +3,8 @@ By submitting a PR to this repository, you agree to the terms within the [Auth0 
 ### Description
 
 > Please describe both what is changing and why this is important. Include:
-> 
-> - Pulbic endpoints added, deleted, deprecated, or changed
+>
+> - Public endpoints added, deleted, deprecated, or changed
 > - Any actual or potential breakage or changes to the public API
 > - A summary of usage if this is a new feature or change to a public API (this should also be added to relevant documentation once released)
 > - Screenshots of new or changed UI, if applicable
@@ -13,7 +13,7 @@ By submitting a PR to this repository, you agree to the terms within the [Auth0 
 ### References
 
 > Include any links supporting this change such as a:
-> 
+>
 > - GitHub Issue/PR number addressed or fixed
 > - Auth0 Community post
 > - StackOverflow post
@@ -26,7 +26,13 @@ By submitting a PR to this repository, you agree to the terms within the [Auth0 
 > Describe how this can be tested by reviewers. Be specific about anything not tested and reasons why. If this library has unit and/or integration testing, tests should be added for new functionality and existing tests should complete without errors. Also include any manual steps, if applicable.
 
 - [ ] This change adds test coverage for fixed/new functionality
-- [ ] This change has been tested on the version X.X.X of the language/platform
+- [ ] This change requires manual testing
+
+**Testing environment:**
+
+- Language version:
+- Platform version:
+- Browser version (if applicable):
 
 ### Checklist
 
