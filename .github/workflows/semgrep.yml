@@ -1,10 +1,16 @@
 name: "Semgrep"
 
 on:
+  merge_group:
+  push:
+    branches:
+      - main
   pull_request:
     types:
       - opened
       - synchronize
+  schedule:
+    - cron: "30 0 1,15 * *"
 
 jobs:
   run:
